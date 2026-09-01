@@ -2,8 +2,8 @@
 
 **Edemy** is a full-stack **Learning Management System (LMS)** that allows educators to create and manage courses while students can enroll, learn, track progress, and rate courses. It supports **role-based dashboards**, **Stripe payments**, **video lessons**, and **real-time progress tracking**.
 
-🌐 **Live Website:** https://edemy-frontend-eosin.vercel.app  
-📦 **Repository:** https://github.com/Amit-0011/LMS
+🌐 **Live Website:**https://lms-main-theta.vercel.app 
+
 
 ---
 
